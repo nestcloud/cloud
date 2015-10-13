@@ -1,0 +1,2547 @@
+*** IMPORTANT ***
+Though I have presented the purchases as a checklist, it is HIGHLY recommended
+that you purchase a stage at a time, and that you SAVE BEFORE you begin
+purchasing, and AFTER you finish purchasing.  This can save you MUCH heartache.
+
+Also note that I have included the two pre-purchased nodes for each character
+for completeness. DO NOT PURCHASE THESE CHECKED NODES when purchasing on
+stage 1.
+
+
+== Stage 01 = [Stg01] ==
+
+Stage CP: 2580
+
+==== Serah == [Ser01] ==
+
+  [x] Com 01 (+2 Str)
+  [x] Rav 01
+  [ ] Com 02
+  [ ] Rav 02 (+2 Mag)
+  [ ] Com 03
+  [ ] Rav 03 (+2 Mag)
+  [ ] Com 04
+  [ ] Rav 04 (+2 Mag)
+  [ ] Com 05
+  [ ] Rav 05 (+2 Mag)
+  [ ] Com 06
+  [ ] Rav 06 (+2 Mag)
+  [ ] Com 07
+  [ ] Com 08
+  [ ] Rav 07 (+2 Mag)
+  [ ] Sen 01
+  [ ] Rav 08 (+2 Mag)
+  [ ] Sen 02
+  [ ] Rav 09 (+2 Mag)
+
+Expansion bonus: Increase ATB gauge
+
+Final levels:
+  Com 09
+  Rav 10
+  Sen 03
+
+Stage bonuses:
+  +2 Str
+  +16 Mag
+
+Total bonuses:
+  +2 Str
+  +16 Mag
+
+Base stats:
+  HP: 470
+  Str: 31
+  Mag: 50
+
+==== Noel === [Nol01] ==
+
+  [x] Sen 01 (+6 HP)
+  [x] Com 01
+  [ ] Com 02 (+2 Str)
+  [ ] Rav 01
+  [ ] Com 03 (+2 Str)
+  [ ] Rav 02
+  [ ] Rav 03
+  [ ] Rav 04
+  [ ] Com 04 (+2 Str)
+  [ ] Rav 05
+  [ ] Com 05 (+2 Str)
+  [ ] Rav 06
+  [ ] Com 06 (+2 Str)
+  [ ] Rav 07
+  [ ] Com 07 (+2 Str)
+  [ ] Rav 08
+  [ ] Com 08 (+2 Str)
+  [ ] Sen 02
+  [ ] Com 09 (+2 Str)
+
+Expansion bonus: Increase ATB gauge
+
+Final levels:
+  Com 10
+  Rav 09
+  Sen 03
+
+Stage bonuses:
+  +6 HP
+  +16 Str
+
+Total bonuses:
+  +6 HP
+  +16 Str
+
+Base stats:
+  HP: 472
+  Str: 57
+  Mag: 32
+
+
+== Stage 02 = [Stg02] ==
+
+Stage CP: 4570
+
+==== Serah == [Ser02] ==
+
+  [ ] Rav 10 (+2 Mag)
+  [ ] Com 09
+  [ ] Com 10
+  [ ] Rav 11 (+2 Mag)
+  [ ] Com 11
+  [ ] Com 12
+  [ ] Rav 12 (+2 Mag)
+  [ ] Com 13
+  [ ] Rav 13 (+2 Mag)
+  [ ] Com 14
+  [ ] Rav 14 (+2 Mag)
+  [ ] Com 15
+  [ ] Rav 15 (+2 Mag)
+  [ ] Com 16
+  [ ] Com 17
+  [ ] Rav 16 (+2 Mag)
+  [ ] Com 18
+  [ ] Rav 17 (+2 Mag)
+  [ ] Com 19
+  [ ] Rav 18 (+2 Mag)
+
+*** IMPORTANT ***
+Expansion bonus: Unlock Saboteur role
+
+Final levels:
+  Com 20
+  Rav 19
+  Sen 03
+  Sab 01
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +34 Mag
+
+Base stats:
+  HP: 591
+  Str: 34
+  Mag: 76
+
+==== Noel === [Nol02] ==
+
+  [ ] Com 10 (+2 Str)
+  [ ] Rav 09
+  [ ] Com 11 (+2 Str)
+  [ ] Rav 10
+  [ ] Com 12 (+2 Str)
+  [ ] Rav 11
+  [ ] Rav 12
+  [ ] Rav 13
+  [ ] Com 13 (+2 Str)
+  [ ] Rav 14
+  [ ] Com 14 (+2 Str)
+  [ ] Rav 15
+  [ ] Rav 16
+  [ ] Com 15 (+2 Str)
+  [ ] Rav 17
+  [ ] Com 16 (+2 Str)
+  [ ] Rav 18
+  [ ] Com 17 (+2 Str)
+  [ ] Rav 19
+  [ ] Com 18 (+2 Str)
+
+*** IMPORTANT ***
+Expansion bonus: Unlock Synergist role
+
+Final levels:
+  Com 19
+  Rav 20
+  Sen 03
+  Syn 01
+
+Stage bonuses:
+  +18 Str
+
+Total bonuses:
+  +6 HP
+  +34 Str
+
+Base stats:
+  HP: 595
+  Str: 77
+  Mag: 38
+
+
+== Stage 03 = [Stg03] ==
+
+Stage CP: 5580
+
+==== Serah == [Ser03] ==
+
+  [ ] Rav 19 (+2 Mag)
+  [ ] Sab 01
+  [ ] Com 20
+  [ ] Sab 02 (+2 Mag)
+  [ ] Sab 03
+  [ ] Com 21
+  [ ] Sab 04 (+2 Mag)
+  [ ] Sab 05
+  [ ] Sab 06 (+2 Mag)
+  [ ] Sab 07
+  [ ] Sab 08 (+2 Mag)
+  [ ] Sab 09
+  [ ] Sab 10 (+2 Mag)
+  [ ] Com 22
+  [ ] Com 23
+  [ ] Rav 20 (+2 Mag)
+  [ ] Com 24
+  [ ] Rav 21 (+2 Mag)
+  [ ] Com 25
+  [ ] Rav 22 (+2 Mag)
+
+*** IMPORTANT ***
+Expansion bonus: Unlock Medic role
+
+Final levels:
+  Com 26
+  Rav 23
+  Sen 03
+  Sab 11
+  Med 01
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +52 Mag
+
+Base stats:
+  HP: 729
+  Str: 41
+  Mag: 102
+
+==== Noel === [Nol03] ==
+
+  [ ] Com 19 (+2 Str)
+  [ ] Syn 01
+  [ ] Syn 02 (+2 Mag)
+  [ ] Syn 03
+  [ ] Syn 04 (+2 Mag)
+  [ ] Syn 05
+  [ ] Rav 20
+  [ ] Rav 21
+  [ ] Syn 06 (+2 Mag)
+  [ ] Syn 07
+  [ ] Syn 08 (+2 Mag)
+  [ ] Syn 09
+  [ ] Rav 22
+  [ ] Syn 10 (+2 Mag)
+  [ ] Rav 23
+  [ ] Com 20 (+2 Str)
+  [ ] Rav 24
+  [ ] Com 21 (+2 Str)
+  [ ] Rav 25
+  [ ] Com 22 (+2 Str)
+
+*** IMPORTANT ***
+Expansion bonus: Unlock Medic role
+
+Final levels:
+  Com 23
+  Rav 26
+  Sen 03
+  Syn 11
+  Med 01
+
+Stage bonuses:
+  +8 Str
+  +10 Mag
+
+Total bonuses:
+  +6 HP
+  +42 Str
+  +10 Mag
+
+Base stats:
+  HP: 769
+  Str: 89
+  Mag: 52
+
+
+== Stage 04 = [Stg04] ==
+
+Stage CP: 7360
+
+==== Serah == [Ser04] ==
+
+  [ ] Rav 23 (+2 Mag)
+  [ ] Sab 11
+  [ ] Med 01
+  [ ] Sab 12 (+2 Mag)
+  [ ] Sab 13
+  [ ] Med 02
+  [ ] Sab 14 (+2 Mag)
+  [ ] Sab 15
+  [ ] Sab 16 (+2 Mag)
+  [ ] Sab 17
+  [ ] Rav 24 (+2 Mag)
+  [ ] Med 03
+  [ ] Rav 25 (+2 Mag)
+  [ ] Med 04
+  [ ] Med 05
+  [ ] Rav 26 (+2 Mag)
+  [ ] Med 06
+  [ ] Rav 27 (+2 Mag)
+  [ ] Med 07
+  [ ] Rav 28 (+2 Mag)
+
+Expansion bonus: Learn: SAB Bonus Boost
+
+Final levels:
+  Com 26
+  Rav 29
+  Sen 03
+  Sab 18
+  Med 08
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +70 Mag
+
+Base stats:
+  HP: 903
+  Str: 43
+  Mag: 129
+
+==== Noel === [Nol04] ==
+
+  [ ] Com 23 (+2 Str)
+  [ ] Med 01
+  [ ] Com 24 (+2 Str)
+  [ ] Med 02
+  [ ] Com 25 (+2 Str)
+  [ ] Med 03
+  [ ] Med 04
+  [ ] Med 05
+  [ ] Com 26 (+2 Str)
+  [ ] Med 06
+  [ ] Com 27 (+2 Str)
+  [ ] Med 07
+  [ ] Rav 26
+  [ ] Com 28 (+2 Str)
+  [ ] Rav 27
+  [ ] Com 29 (+2 Str)
+  [ ] Rav 28
+  [ ] Com 30 (+2 Str)
+  [ ] Rav 29
+  [ ] Com 31 (+2 Str)
+
+Expansion bonus: Learn: COM Bonus Boost
+
+Final levels:
+  Com 32
+  Rav 30
+  Sen 03
+  Syn 11
+  Med 08
+
+Stage bonuses:
+  +18 Str
+
+Total bonuses:
+  +6 HP
+  +60 Str
+  +10 Mag
+
+Base stats:
+  HP: 1000
+  Str: 117
+  Mag: 58
+
+
+== Stage 05 = [Stg05] ==
+
+Stage CP: 7890
+
+==== Serah == [Ser05] ==
+
+  [ ] Sab 18 (+2 Mag)
+  [ ] Sab 19
+  [ ] Med 08
+  [ ] Sab 20 (+2 Mag)
+  [ ] Sab 21
+  [ ] Med 09
+  [ ] Sab 22 (+2 Mag)
+  [ ] Sab 23
+  [ ] Sab 24 (+2 Mag)
+  [ ] Sab 25
+  [ ] Sab 26 (+2 Mag)
+  [ ] Sab 27
+  [ ] Sab 28 (+2 Mag)
+  [ ] Com 26
+  [ ] Com 27
+  [ ] Rav 29 (+2 Mag)
+  [ ] Com 28
+  [ ] Rav 30 (+2 Mag)
+  [ ] Com 29
+  [ ] Rav 31 (+2 Mag)
+
+Expansion bonus: Learn: SAB Bonus Boost II
+
+Final levels:
+  Com 30
+  Rav 32
+  Sen 03
+  Sab 29
+  Med 10
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +88 Mag
+
+Base stats:
+  HP: 1108
+  Str: 46
+  Mag: 156
+
+==== Noel === [Nol05] ==
+
+  [ ] Com 32 (+2 Str)
+  [ ] Rav 30
+  [ ] Com 33 (+2 Str)
+  [ ] Rav 31
+  [ ] Com 34 (+2 Str)
+  [ ] Rav 32
+  [ ] Rav 33
+  [ ] Rav 34
+  [ ] Com 35 (+2 Str)
+  [ ] Rav 35
+  [ ] Com 36 (+2 Str)
+  [ ] Rav 36
+  [ ] Rav 37
+  [ ] Com 37 (+2 Str)
+  [ ] Rav 38
+  [ ] Com 38 (+2 Str)
+  [ ] Rav 39
+  [ ] Com 39 (+2 Str)
+  [ ] Rav 40
+  [ ] Com 40 (+2 Str)
+
+Expansion bonus: Learn: RAV Bonus Boost
+
+Final levels:
+  Com 41
+  Rav 41
+  Sen 03
+  Syn 11
+  Med 08
+
+Stage bonuses:
+  +18 Str
+
+Total bonuses:
+  +6 HP
+  +78 Str
+  +10 Mag
+
+Base stats:
+  HP: 1206
+  Str: 146
+  Mag: 67
+
+
+== Stage 06 = [Stg06] ==
+
+Stage CP: 8340
+
+==== Serah == [Ser06] ==
+
+  [ ] Rav 32 (+2 Mag)
+  [ ] Sab 29
+  [ ] Sen 03
+  [ ] Sab 30 (+2 Mag)
+  [ ] Sab 31
+  [ ] Sen 04
+  [ ] Sab 32 (+2 Mag)
+  [ ] Sab 33
+  [ ] Sab 34 (+2 Mag)
+  [ ] Sab 35
+  [ ] Sab 36 (+2 Mag)
+  [ ] Sab 37
+  [ ] Sab 38 (+2 Mag)
+  [ ] Sab 39
+  [ ] Com 30
+  [ ] Sab 40 (+2 Mag)
+  [ ] Com 31
+  [ ] Rav 33 (+2 Mag)
+  [ ] Com 32
+  [ ] Rav 34 (+2 Mag)
+
+Expansion bonus: Increase accessory capacity by 20
+
+Final levels:
+  Com 33
+  Rav 35
+  Sen 05
+  Sab 41
+  Med 10
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +106 Mag
+
+Base stats:
+  HP: 1234
+  Str: 50
+  Mag: 187
+
+==== Noel === [Nol06] ==
+
+  [ ] Com 41 (+2 Str)
+  [ ] Syn 11
+  [ ] Syn 12 (+2 Mag)
+  [ ] Syn 13
+  [ ] Syn 14 (+2 Mag)
+  [ ] Syn 15
+  [ ] Rav 41
+  [ ] Rav 42
+  [ ] Syn 16 (+2 Mag)
+  [ ] Syn 17
+  [ ] Syn 18 (+2 Mag)
+  [ ] Syn 19
+  [ ] Rav 43
+  [ ] Syn 20 (+2 Mag)
+  [ ] Syn 21
+  [ ] Syn 22 (+2 Mag)
+  [ ] Syn 23
+  [ ] Syn 24 (+2 Mag)
+  [ ] Syn 25
+  [ ] Syn 26 (+2 Mag)
+
+Expansion bonus: Increase accessory capacity by 20
+
+Final levels:
+  Com 42
+  Rav 44
+  Sen 03
+  Syn 27
+  Med 08
+
+Stage bonuses:
+  +2 Str
+  +16 Mag
+
+Total bonuses:
+  +6 HP
+  +80 Str
+  +26 Mag
+
+Base stats:
+  HP: 1460
+  Str: 160
+  Mag: 86
+
+
+== Stage 07 = [Stg07] ==
+
+Stage CP: 9480
+
+==== Serah == [Ser07] ==
+
+  [ ] Rav 35 (+2 Mag)
+  [ ] Sab 41
+  [ ] Com 33
+  [ ] Sab 42 (+2 Mag)
+  [ ] Sab 43
+  [ ] Com 34
+  [ ] Sab 44 (+2 Mag)
+  [ ] Sab 45
+  [ ] Sab 46 (+2 Mag)
+  [ ] Com 35
+  [ ] Rav 36 (+2 Mag)
+  [ ] Com 36
+  [ ] Rav 37 (+2 Mag)
+  [ ] Com 37
+  [ ] Com 38
+  [ ] Rav 38 (+2 Mag)
+  [ ] Com 39
+  [ ] Rav 39 (+2 Mag)
+  [ ] Com 40
+  [ ] Rav 40 (+2 Mag)
+
+Expansion bonus: Learn: COM Bonus Boost
+
+Final levels:
+  Com 41
+  Rav 41
+  Sen 05
+  Sab 47
+  Med 10
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +124 Mag
+
+Base stats:
+  HP: 1448
+  Str: 56
+  Mag: 209
+
+==== Noel === [Nol07] ==
+
+  [ ] Com 42 (+2 Str)
+  [ ] Med 08
+  [ ] Com 43 (+2 Str)
+  [ ] Med 09
+  [ ] Com 44 (+2 Str)
+  [ ] Med 10
+  [ ] Med 11
+  [ ] Med 12
+  [ ] Com 45 (+2 Str)
+  [ ] Med 13
+  [ ] Com 46 (+2 Str)
+  [ ] Med 14
+  [ ] Med 15
+  [ ] Com 47 (+2 Str)
+  [ ] Med 16
+  [ ] Com 48 (+2 Str)
+  [ ] Med 17
+  [ ] Com 49 (+2 Str)
+  [ ] Med 18
+  [ ] Com 50 (+2 Str)
+
+Expansion bonus: Learn: MED Bonus Boost
+
+Final levels:
+  Com 51
+  Rav 44
+  Sen 03
+  Syn 27
+  Med 19
+
+Stage bonuses:
+  +18 Str
+
+Total bonuses:
+  +6 HP
+  +98 Str
+  +26 Mag
+
+Base stats:
+  HP: 1753
+  Str: 183
+  Mag: 94
+
+
+== Stage 08 = [Stg08] ==
+
+Stage CP: 9960
+
+==== Serah == [Ser08] ==
+
+  [ ] Rav 41 (+2 Mag)
+  [ ] Sab 47
+  [ ] Med 10
+  [ ] Sab 48 (+2 Mag)
+  [ ] Sab 49
+  [ ] Med 11
+  [ ] Rav 42 (+2 Mag)
+  [ ] Med 12
+  [ ] Rav 43 (+2 Mag)
+  [ ] Med 13
+  [ ] Rav 44 (+2 Mag)
+  [ ] Med 14
+  [ ] Rav 45 (+2 Mag)
+  [ ] Med 15
+  [ ] Med 16
+  [ ] Rav 46 (+2 Mag)
+  [ ] Med 17
+  [ ] Rav 47 (+2 Mag)
+  [ ] Med 18
+  [ ] Rav 48 (+2 Mag)
+
+Expansion bonus: Increase ATB gauge
+
+Final levels:
+  Com 41
+  Rav 49
+  Sen 05
+  Sab 50
+  Med 19
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +142 Mag
+
+Base stats:
+  HP: 1565
+  Str: 71
+  Mag: 239
+
+==== Noel === [Nol08] ==
+
+  [ ] Com 51 (+2 Str)
+  [ ] Med 19
+  [ ] Com 52 (+2 Str)
+  [ ] Med 20
+  [ ] Com 53 (+2 Str)
+  [ ] Med 21
+  [ ] Med 22
+  [ ] Med 23
+  [ ] Com 54 (+2 Str)
+  [ ] Med 24
+  [ ] Com 55 (+2 Str)
+  [ ] Med 25
+  [ ] Med 26
+  [ ] Com 56 (+2 Str)
+  [ ] Med 27
+  [ ] Com 57 (+2 Str)
+  [ ] Med 28
+  [ ] Com 58 (+2 Str)
+  [ ] Med 29
+  [ ] Com 59 (+2 Str)
+
+Expansion bonus: Learn: MED Bonus Boost II
+
+Final levels:
+  Com 60
+  Rav 44
+  Sen 03
+  Syn 27
+  Med 30
+
+Stage bonuses:
+  +18 Str
+
+Total bonuses:
+  +6 HP
+  +116 Str
+  +26 Mag
+
+Base stats:
+  HP: 2007
+  Str: 215
+  Mag: 97
+
+
+== Stage 09 = [Stg09] ==
+
+Stage CP: 10130
+
+==== Serah == [Ser09] ==
+
+  [ ] Rav 49 (+2 Mag)
+  [ ] Med 19
+  [ ] Med 20
+  [ ] Rav 50 (+2 Mag)
+  [ ] Med 21
+  [ ] Med 22
+  [ ] Rav 51 (+2 Mag)
+  [ ] Med 23
+  [ ] Rav 52 (+2 Mag)
+  [ ] Med 24
+  [ ] Rav 53 (+2 Mag)
+  [ ] Med 25
+  [ ] Rav 54 (+2 Mag)
+  [ ] Med 26
+  [ ] Med 27
+  [ ] Rav 55 (+2 Mag)
+  [ ] Med 28
+  [ ] Rav 56 (+2 Mag)
+  [ ] Med 29
+  [ ] Rav 57 (+2 Mag)
+
+Expansion bonus: Learn: MED Bonus Boost
+
+Final levels:
+  Com 41
+  Rav 58
+  Sen 05
+  Sab 50
+  Med 30
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +160 Mag
+
+Base stats:
+  HP: 1728
+  Str: 72
+  Mag: 279
+
+==== Noel === [Nol09] ==
+
+  [ ] Com 60 (+2 Str)
+  [ ] Med 30
+  [ ] Com 61 (+2 Str)
+  [ ] Med 31
+  [ ] Com 62 (+2 Str)
+  [ ] Med 32
+  [ ] Med 33
+  [ ] Med 34
+  [ ] Com 63 (+2 Str)
+  [ ] Rav 44
+  [ ] Com 64 (+2 Str)
+  [ ] Rav 45
+  [ ] Rav 46
+  [ ] Com 65 (+2 Str)
+  [ ] Rav 47
+  [ ] Com 66 (+2 Str)
+  [ ] Rav 48
+  [ ] Com 67 (+2 Str)
+  [ ] Rav 49
+  [ ] Com 68 (+2 Str)
+
+Expansion bonus: Learn: COM Bonus Boost II
+
+Final levels:
+  Com 69
+  Rav 50
+  Sen 03
+  Syn 27
+  Med 35
+
+Stage bonuses:
+  +18 Str
+
+Total bonuses:
+  +6 HP
+  +134 Str
+  +26 Mag
+
+Base stats:
+  HP: 2195
+  Str: 245
+  Mag: 110
+
+
+== Stage 10 = [Stg10] ==
+
+Stage CP: 16840
+
+==== Serah == [Ser10] ==
+
+  [ ] Sab 50 (+2 Mag)
+  [ ] Sab 51
+  [ ] Sen 05
+  [ ] Sen 06
+  [ ] Sab 52 (+2 Mag)
+  [ ] Sab 53
+  [ ] Sen 07
+  [ ] Sen 08
+  [ ] Sab 54 (+2 Mag)
+  [ ] Sab 55
+  [ ] Sen 09
+  [ ] Sen 10
+  [ ] Sab 56 (+2 Mag)
+  [ ] Sab 57
+  [ ] Sen 11
+  [ ] Sen 12
+  [ ] Sab 58 (+2 Mag)
+  [ ] Sab 59
+  [ ] Sen 13
+  [ ] Sen 14
+  [ ] Rav 58 (+2 Mag)
+  [ ] Sen 15
+  [ ] Sen 16
+  [ ] Sen 17
+  [ ] Rav 59 (+2 Mag)
+  [ ] Sen 18
+  [ ] Rav 60 (+2 Mag)
+  [ ] Sen 19
+  [ ] Sen 20
+  [ ] Rav 61 (+2 Mag)
+
+Expansion bonus: Learn Ravager ability: Ultima Arrow
+
+Final levels:
+  Com 41
+  Rav 62
+  Sen 21
+  Sab 60
+  Med 30
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +178 Mag
+
+Base stats:
+  HP: 2047
+  Str: 77
+  Mag: 323
+
+==== Noel === [Nol10] ==
+
+  [ ] Com 69 (+2 Str)
+  [ ] Syn 27
+  [ ] Sen 03
+  [ ] Sen 04
+  [ ] Syn 28 (+2 Mag)
+  [ ] Syn 29
+  [ ] Syn 30 (+2 Mag)
+  [ ] Syn 31
+  [ ] Sen 05
+  [ ] Sen 06
+  [ ] Sen 07
+  [ ] Sen 08
+  [ ] Sen 09
+  [ ] Syn 32 (+2 Mag)
+  [ ] Syn 33
+  [ ] Sen 10
+  [ ] Syn 34 (+2 Mag)
+  [ ] Syn 35
+  [ ] Sen 11
+  [ ] Sen 12
+  [ ] Syn 36 (+2 Mag)
+  [ ] Syn 37
+  [ ] Sen 13
+  [ ] Syn 38 (+2 Mag)
+  [ ] Syn 39
+  [ ] Sen 14
+  [ ] Syn 40 (+2 Mag)
+  [ ] Syn 41
+  [ ] Sen 15
+  [ ] Syn 42 (+2 Mag)
+
+Expansion bonus: Learn Commando ability: Meteor Javelin
+
+Final levels:
+  Com 70
+  Rav 50
+  Sen 16
+  Syn 43
+  Med 35
+
+Stage bonuses:
+  +2 Str
+  +16 Mag
+
+Total bonuses:
+  +6 HP
+  +136 Str
+  +42 Mag
+
+Base stats:
+  HP: 2559
+  Str: 261
+  Mag: 138
+
+
+== Stage 11 = [Stg11] ==
+
+Stage CP: 19390
+
+==== Serah == [Ser11] ==
+
+  [ ] Sab 60 (+2 Mag)
+  [ ] Sab 61
+  [ ] Sen 21
+  [ ] Sen 22
+  [ ] Sab 62 (+2 Mag)
+  [ ] Sab 63
+  [ ] Sen 23
+  [ ] Sen 24
+  [ ] Sab 64 (+2 Mag)
+  [ ] Sab 65
+  [ ] Com 41
+  [ ] Com 42
+  [ ] Sab 66 (+2 Mag)
+  [ ] Sab 67
+  [ ] Com 43
+  [ ] Com 44
+  [ ] Sab 68 (+2 Mag)
+  [ ] Sab 69
+  [ ] Com 45
+  [ ] Com 46
+  [ ] Sab 70 (+2 Mag)
+  [ ] Sab 71
+  [ ] Com 47
+  [ ] Com 48
+  [ ] Sab 72 (+2 Mag)
+  [ ] Sab 73
+  [ ] Sab 74 (+2 Mag)
+  [ ] Sab 75
+  [ ] Com 49
+  [ ] Sab 76 (+2 Mag)
+
+Expansion bonus: Learn: COM Bonus Boost II
+
+Final levels:
+  Com 50
+  Rav 62
+  Sen 25
+  Sab 77
+  Med 30
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +196 Mag
+
+Base stats:
+  HP: 2370
+  Str: 88
+  Mag: 377
+
+==== Noel === [Nol11] ==
+
+  [ ] Com 70 (+2 Str)
+  [ ] Syn 43
+  [ ] Sen 16
+  [ ] Sen 17
+  [ ] Syn 44 (+2 Mag)
+  [ ] Syn 45
+  [ ] Syn 46 (+2 Mag)
+  [ ] Syn 47
+  [ ] Sen 18
+  [ ] Sen 19
+  [ ] Sen 20
+  [ ] Sen 21
+  [ ] Sen 22
+  [ ] Syn 48 (+2 Mag)
+  [ ] Syn 49
+  [ ] Sen 23
+  [ ] Com 71 (+2 Str)
+  [ ] Sen 24
+  [ ] Sen 25
+  [ ] Sen 26
+  [ ] Com 72 (+2 Str)
+  [ ] Sen 27
+  [ ] Sen 28
+  [ ] Com 73 (+2 Str)
+  [ ] Sen 29
+  [ ] Sen 30
+  [ ] Com 74 (+2 Str)
+  [ ] Sen 31
+  [ ] Sen 32
+  [ ] Com 75 (+2 Str)
+
+Expansion bonus: Increase accessory capacity by 20
+
+Final levels:
+  Com 76
+  Rav 50
+  Sen 33
+  Syn 50
+  Med 35
+
+Stage bonuses:
+  +12 Str
+  +6 Mag
+
+Total bonuses:
+  +6 HP
+  +148 Str
+  +48 Mag
+
+Base stats:
+  HP: 2900
+  Str: 293
+  Mag: 162
+
+
+== Stage 12 = [Stg12] ==
+
+Stage CP: 19930
+
+==== Serah == [Ser12] ==
+
+  [ ] Rav 62 (+2 Mag)
+  [ ] Sab 77
+  [ ] Sen 25
+  [ ] Sen 26
+  [ ] Sab 78 (+2 Mag)
+  [ ] Sab 79
+  [ ] Sen 27
+  [ ] Sen 28
+  [ ] Sab 80 (+2 Mag)
+  [ ] Sab 81
+  [ ] Sen 29
+  [ ] Sen 30
+  [ ] Sab 82 (+2 Mag)
+  [ ] Sab 83
+  [ ] Sen 31
+  [ ] Sen 32
+  [ ] Sab 84 (+2 Mag)
+  [ ] Sab 85
+  [ ] Sen 33
+  [ ] Sen 34
+  [ ] Sab 86 (+2 Mag)
+  [ ] Sab 87
+  [ ] Sen 35
+  [ ] Sen 36
+  [ ] Sab 88 (+2 Mag)
+  [ ] Sab 89
+  [ ] Sab 90 (+2 Mag)
+  [ ] Sab 91
+  [ ] Sen 37
+  [ ] Sab 92 (+2 Mag)
+
+Expansion bonus: Increase accessory capacity by 20
+
+Final levels:
+  Com 50
+  Rav 63
+  Sen 38
+  Sab 93
+  Med 30
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +214 Mag
+
+Base stats:
+  HP: 2731
+  Str: 109
+  Mag: 412
+
+==== Noel === [Nol12] ==
+
+  [ ] Syn 50 (+2 Mag)
+  [ ] Syn 51
+  [ ] Sen 33
+  [ ] Sen 34
+  [ ] Syn 52 (+2 Mag)
+  [ ] Syn 53
+  [ ] Syn 54 (+2 Mag)
+  [ ] Syn 55
+  [ ] Sen 35
+  [ ] Sen 36
+  [ ] Sen 37
+  [ ] Sen 38
+  [ ] Sen 39
+  [ ] Syn 56 (+2 Mag)
+  [ ] Rav 50
+  [ ] Rav 51
+  [ ] Com 76 (+2 Str)
+  [ ] Rav 52
+  [ ] Rav 53
+  [ ] Rav 54
+  [ ] Com 77 (+2 Str)
+  [ ] Rav 55
+  [ ] Rav 56
+  [ ] Com 78 (+2 Str)
+  [ ] Rav 57
+  [ ] Rav 58
+  [ ] Com 79 (+2 Str)
+  [ ] Rav 59
+  [ ] Rav 60
+  [ ] Com 80 (+2 Str)
+
+Expansion bonus: Learn: RAV Bonus Boost II
+
+Final levels:
+  Com 81
+  Rav 61
+  Sen 40
+  Syn 57
+  Med 35
+
+Stage bonuses:
+  +10 Str
+  +8 Mag
+
+Total bonuses:
+  +6 HP
+  +158 Str
+  +56 Mag
+
+Base stats:
+  HP: 3319
+  Str: 343
+  Mag: 179
+
+
+== Stage 13 = [Stg13] ==
+
+Stage CP: 21420
+
+==== Serah == [Ser13] ==
+
+  [ ] Rav 63 (+2 Mag)
+  [ ] Sab 93
+  [ ] Sen 38
+  [ ] Sen 39
+  [ ] Sab 94 (+2 Mag)
+  [ ] Sab 95
+  [ ] Sen 40
+  [ ] Sen 41
+  [ ] Sab 96 (+2 Mag)
+  [ ] Sab 97
+  [ ] Sen 42
+  [ ] Sen 43
+  [ ] Sab 98 (+2 Mag)
+  [ ] Sen 44
+  [ ] Sen 45
+  [ ] Sen 46
+  [ ] Rav 64 (+2 Mag)
+  [ ] Sen 47
+  [ ] Sen 48
+  [ ] Sen 49
+  [ ] Rav 65 (+2 Mag)
+  [ ] Com 50
+  [ ] Com 51
+  [ ] Com 52
+  [ ] Rav 66 (+2 Mag)
+  [ ] Com 53
+  [ ] Rav 67 (+2 Mag)
+  [ ] Com 54
+  [ ] Com 55
+  [ ] Rav 68 (+2 Mag)
+
+Expansion bonus: Learn: RAV Bonus Boost
+
+Final levels:
+  Com 56
+  Rav 69
+  Sen 50
+  Sab 99
+  Med 30
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +232 Mag
+
+Base stats:
+  HP: 3027
+  Str: 134
+  Mag: 444
+
+==== Noel === [Nol13] ==
+
+  [ ] Com 81 (+2 Str)
+  [ ] Rav 61
+  [ ] Rav 62
+  [ ] Rav 63
+  [ ] Com 82 (+2 Str)
+  [ ] Rav 64
+  [ ] Com 83 (+2 Str)
+  [ ] Rav 65
+  [ ] Rav 66
+  [ ] Rav 67
+  [ ] Rav 68
+  [ ] Rav 69
+  [ ] Rav 70
+  [ ] Com 84 (+2 Str)
+  [ ] Rav 71
+  [ ] Rav 72
+  [ ] Com 85 (+2 Str)
+  [ ] Rav 73
+  [ ] Rav 74
+  [ ] Rav 75
+  [ ] Com 86 (+2 Str)
+  [ ] Rav 76
+  [ ] Rav 77
+  [ ] Com 87 (+2 Str)
+  [ ] Rav 78
+  [ ] Rav 79
+  [ ] Com 88 (+2 Str)
+  [ ] Rav 80
+  [ ] Rav 81
+  [ ] Com 89 (+2 Str)
+
+Expansion bonus: Increase accessory capacity by 10
+
+Final levels:
+  Com 90
+  Rav 82
+  Sen 40
+  Syn 57
+  Med 35
+
+Stage bonuses:
+  +18 Str
+
+Total bonuses:
+  +6 HP
+  +176 Str
+  +56 Mag
+
+Base stats:
+  HP: 3750
+  Str: 404
+  Mag: 218
+
+
+== Stage 14 = [Stg14] ==
+
+Stage CP: 24620
+
+==== Serah == [Ser14] ==
+
+  [ ] Rav 69 (+2 Mag)
+  [ ] Com 56
+  [ ] Com 57
+  [ ] Com 58
+  [ ] Rav 70 (+2 Mag)
+  [ ] Com 59
+  [ ] Com 60
+  [ ] Com 61
+  [ ] Rav 71 (+2 Mag)
+  [ ] Com 62
+  [ ] Com 63
+  [ ] Com 64
+  [ ] Rav 72 (+2 Mag)
+  [ ] Com 65
+  [ ] Com 66
+  [ ] Com 67
+  [ ] Rav 73 (+2 Mag)
+  [ ] Com 68
+  [ ] Com 69
+  [ ] Com 70
+  [ ] Rav 74 (+2 Mag)
+  [ ] Com 71
+  [ ] Com 72
+  [ ] Com 73
+  [ ] Rav 75 (+2 Mag)
+  [ ] Com 74
+  [ ] Rav 76 (+2 Mag)
+  [ ] Com 75
+  [ ] Com 76
+  [ ] Rav 77 (+2 Mag)
+
+Expansion bonus: Learn: RAV Bonus Boost II
+
+Final levels:
+  Com 77
+  Rav 78
+  Sen 50
+  Sab 99
+  Med 30
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +250 Mag
+
+Base stats:
+  HP: 3188
+  Str: 177
+  Mag: 490
+
+==== Noel === [Nol14] ==
+
+  [ ] Com 90 (+2 Str)
+  [ ] Syn 57
+  [ ] Rav 82
+  [ ] Rav 83
+  [ ] Syn 58 (+2 Mag)
+  [ ] Syn 59
+  [ ] Syn 60 (+2 Mag)
+  [ ] Syn 61
+  [ ] Rav 84
+  [ ] Rav 85
+  [ ] Rav 86
+  [ ] Rav 87
+  [ ] Rav 88
+  [ ] Syn 62 (+2 Mag)
+  [ ] Syn 63
+  [ ] Rav 89
+  [ ] Syn 64 (+2 Mag)
+  [ ] Rav 90
+  [ ] Rav 91
+  [ ] Rav 92
+  [ ] Com 91 (+2 Str)
+  [ ] Rav 93
+  [ ] Rav 94
+  [ ] Com 92 (+2 Str)
+  [ ] Rav 95
+  [ ] Rav 96
+  [ ] Com 93 (+2 Str)
+  [ ] Rav 97
+  [ ] Rav 98
+  [ ] Com 94 (+2 Str)
+
+*** IMPORTANT ***
+Expansion bonus: Unlock Saboteur role
+
+Final levels:
+  Com 95
+  Rav 99
+  Sen 40
+  Sab 01
+  Syn 65
+  Med 35
+
+Stage bonuses:
+  +10 Str
+  +8 Mag
+
+Total bonuses:
+  +6 HP
+  +186 Str
+  +64 Mag
+
+Base stats:
+  HP: 4229
+  Str: 448
+  Mag: 269
+
+
+== Stage 15 = [Stg15] ==
+
+Stage CP: 25530
+
+==== Serah == [Ser15] ==
+
+  [ ] Rav 78 (+2 Mag)
+  [ ] Med 30
+  [ ] Med 31
+  [ ] Med 32
+  [ ] Rav 79 (+2 Mag)
+  [ ] Med 33
+  [ ] Med 34
+  [ ] Med 35
+  [ ] Rav 80 (+2 Mag)
+  [ ] Med 36
+  [ ] Med 37
+  [ ] Med 38
+  [ ] Rav 81 (+2 Mag)
+  [ ] Med 39
+  [ ] Med 40
+  [ ] Med 41
+  [ ] Rav 82 (+2 Mag)
+  [ ] Med 42
+  [ ] Med 43
+  [ ] Med 44
+  [ ] Rav 83 (+2 Mag)
+  [ ] Med 45
+  [ ] Med 46
+  [ ] Med 47
+  [ ] Rav 84 (+2 Mag)
+  [ ] Med 48
+  [ ] Rav 85 (+2 Mag)
+  [ ] Med 49
+  [ ] Med 50
+  [ ] Rav 86 (+2 Mag)
+
+*** IMPORTANT ***
+Expansion bonus: Unlock Synergist role
+
+Final levels:
+  Com 77
+  Rav 87
+  Sen 50
+  Sab 99
+  Syn 01
+  Med 51
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +268 Mag
+
+Base stats:
+  HP: 3511
+  Str: 210
+  Mag: 525
+
+==== Noel === [Nol15] ==
+
+  [ ] Sab 01 (+2 Str)
+  [ ] Sab 02
+  [ ] Syn 65
+  [ ] Med 35
+  [ ] Sab 03 (+2 Str)
+  [ ] Sab 04
+  [ ] Sab 05 (+2 Str)
+  [ ] Sab 06
+  [ ] Med 36
+  [ ] Med 37
+  [ ] Med 38
+  [ ] Med 39
+  [ ] Med 40
+  [ ] Sab 07 (+2 Str)
+  [ ] Sab 08
+  [ ] Med 41
+  [ ] Sab 09 (+2 Str)
+  [ ] Sab 10
+  [ ] Med 42
+  [ ] Med 43
+  [ ] Sab 11 (+2 Str)
+  [ ] Sab 12
+  [ ] Med 44
+  [ ] Sab 13 (+2 Str)
+  [ ] Sab 14
+  [ ] Med 45
+  [ ] Syn 66 (+2 Mag)
+  [ ] Syn 67
+  [ ] Med 46
+  [ ] Syn 68 (+2 Mag)
+
+Expansion bonus: Increase ATB gauge
+
+Final levels:
+  Com 95
+  Rav 99
+  Sen 40
+  Sab 15
+  Syn 69
+  Med 47
+
+Stage bonuses:
+  +14 Str
+  +4 Mag
+
+Total bonuses:
+  +6 HP
+  +200 Str
+  +68 Mag
+
+Base stats:
+  HP: 4654
+  Str: 476
+  Mag: 292
+
+
+== Stage 16 = [Stg16] ==
+
+Stage CP: 26170
+
+==== Serah == [Ser16] ==
+
+  [ ] Rav 87 (+2 Mag)
+  [ ] Syn 01
+  [ ] Med 51
+  [ ] Med 52
+  [ ] Syn 02 (+2 Mag)
+  [ ] Med 53
+  [ ] Med 54
+  [ ] Med 55
+  [ ] Rav 88 (+2 Mag)
+  [ ] Med 56
+  [ ] Med 57
+  [ ] Med 58
+  [ ] Rav 89 (+2 Mag)
+  [ ] Med 59
+  [ ] Med 60
+  [ ] Med 61
+  [ ] Rav 90 (+2 Mag)
+  [ ] Med 62
+  [ ] Med 63
+  [ ] Med 64
+  [ ] Rav 91 (+2 Mag)
+  [ ] Med 65
+  [ ] Med 66
+  [ ] Med 67
+  [ ] Rav 92 (+2 Mag)
+  [ ] Med 68
+  [ ] Rav 93 (+2 Mag)
+  [ ] Med 69
+  [ ] Med 70
+  [ ] Rav 94 (+2 Mag)
+
+Expansion bonus: Learn: MED Bonus Boost II
+
+Final levels:
+  Com 77
+  Rav 95
+  Sen 50
+  Sab 99
+  Syn 03
+  Med 71
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +286 Mag
+
+Base stats:
+  HP: 3927
+  Str: 233
+  Mag: 565
+
+==== Noel === [Nol16] ==
+
+  [ ] Sab 15 (+2 Str)
+  [ ] Sab 16
+  [ ] Syn 69
+  [ ] Med 47
+  [ ] Sab 17 (+2 Str)
+  [ ] Sab 18
+  [ ] Sab 19 (+2 Str)
+  [ ] Sab 20
+  [ ] Med 48
+  [ ] Med 49
+  [ ] Med 50
+  [ ] Med 51
+  [ ] Med 52
+  [ ] Sab 21 (+2 Str)
+  [ ] Sab 22
+  [ ] Med 53
+  [ ] Sab 23 (+2 Str)
+  [ ] Sab 24
+  [ ] Med 54
+  [ ] Med 55
+  [ ] Sab 25 (+2 Str)
+  [ ] Sab 26
+  [ ] Med 56
+  [ ] Sab 27 (+2 Str)
+  [ ] Sab 28
+  [ ] Med 57
+  [ ] Syn 70 (+2 Mag)
+  [ ] Syn 71
+  [ ] Med 58
+  [ ] Syn 72 (+2 Mag)
+
+Expansion bonus: Learn: SAB Bonus Boost
+
+Final levels:
+  Com 95
+  Rav 99
+  Sen 40
+  Sab 29
+  Syn 73
+  Med 59
+
+Stage bonuses:
+  +14 Str
+  +4 Mag
+
+Total bonuses:
+  +6 HP
+  +214 Str
+  +72 Mag
+
+Base stats:
+  HP: 5003
+  Str: 514
+  Mag: 312
+
+
+== Stage 17 = [Stg17] ==
+
+Stage CP: 30560
+
+==== Serah == [Ser17] ==
+
+  [ ] Rav 95 (+2 Mag)
+  [ ] Syn 03
+  [ ] Med 71
+  [ ] Med 72
+  [ ] Syn 04 (+2 Mag)
+  [ ] Syn 05
+  [ ] Med 73
+  [ ] Med 74
+  [ ] Syn 06 (+2 Mag)
+  [ ] Syn 07
+  [ ] Med 75
+  [ ] Med 76
+  [ ] Syn 08 (+2 Mag)
+  [ ] Syn 09
+  [ ] Med 77
+  [ ] Med 78
+  [ ] Syn 10 (+2 Mag)
+  [ ] Syn 11
+  [ ] Med 79
+  [ ] Med 80
+  [ ] Syn 12 (+2 Mag)
+  [ ] Syn 13
+  [ ] Med 81
+  [ ] Med 82
+  [ ] Syn 14 (+2 Mag)
+  [ ] Syn 15
+  [ ] Syn 16 (+2 Mag)
+  [ ] Syn 17
+  [ ] Med 83
+  [ ] Syn 18 (+2 Mag)
+
+Expansion bonus: Increase accessory capacity by 10
+
+Final levels:
+  Com 77
+  Rav 96
+  Sen 50
+  Sab 99
+  Syn 19
+  Med 84
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +304 Mag
+
+Base stats:
+  HP: 4295
+  Str: 251
+  Mag: 625
+
+==== Noel === [Nol17] ==
+
+  [ ] Sab 29 (+2 Str)
+  [ ] Sab 30
+  [ ] Syn 73
+  [ ] Med 59
+  [ ] Sab 31 (+2 Str)
+  [ ] Sab 32
+  [ ] Sab 33 (+2 Str)
+  [ ] Sab 34
+  [ ] Med 60
+  [ ] Med 61
+  [ ] Med 62
+  [ ] Med 63
+  [ ] Med 64
+  [ ] Sab 35 (+2 Str)
+  [ ] Sab 36
+  [ ] Med 65
+  [ ] Syn 74 (+2 Mag)
+  [ ] Syn 75
+  [ ] Med 66
+  [ ] Med 67
+  [ ] Syn 76 (+2 Mag)
+  [ ] Syn 77
+  [ ] Med 68
+  [ ] Syn 78 (+2 Mag)
+  [ ] Syn 79
+  [ ] Med 69
+  [ ] Syn 80 (+2 Mag)
+  [ ] Syn 81
+  [ ] Med 70
+  [ ] Syn 82 (+2 Mag)
+
+Expansion bonus: Learn: SYN Bonus Boost
+
+Final levels:
+  Com 95
+  Rav 99
+  Sen 40
+  Sab 37
+  Syn 83
+  Med 71
+
+Stage bonuses:
+  +8 Str
+  +10 Mag
+
+Total bonuses:
+  +6 HP
+  +222 Str
+  +82 Mag
+
+Base stats:
+  HP: 5377
+  Str: 551
+  Mag: 341
+
+
+== Stage 18 = [Stg18] ==
+
+Stage CP: 33000
+
+==== Serah == [Ser18] ==
+
+  [ ] Rav 96 (+2 Mag)
+  [ ] Syn 19
+  [ ] Sen 50
+  [ ] Sen 51
+  [ ] Syn 20 (+2 Mag)
+  [ ] Syn 21
+  [ ] Sen 52
+  [ ] Sen 53
+  [ ] Syn 22 (+2 Mag)
+  [ ] Syn 23
+  [ ] Sen 54
+  [ ] Sen 55
+  [ ] Syn 24 (+2 Mag)
+  [ ] Syn 25
+  [ ] Sen 56
+  [ ] Sen 57
+  [ ] Syn 26 (+2 Mag)
+  [ ] Syn 27
+  [ ] Sen 58
+  [ ] Sen 59
+  [ ] Syn 28 (+2 Mag)
+  [ ] Syn 29
+  [ ] Sen 60
+  [ ] Sen 61
+  [ ] Syn 30 (+2 Mag)
+  [ ] Syn 31
+  [ ] Syn 32 (+2 Mag)
+  [ ] Syn 33
+  [ ] Sen 62
+  [ ] Syn 34 (+2 Mag)
+
+Expansion bonus: Learn: SEN Bonus Boost
+
+Final levels:
+  Com 77
+  Rav 97
+  Sen 63
+  Sab 99
+  Syn 35
+  Med 84
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +322 Mag
+
+Base stats:
+  HP: 4543
+  Str: 278
+  Mag: 678
+
+==== Noel === [Nol18] ==
+
+  [ ] Sab 37 (+2 Str)
+  [ ] Sab 38
+  [ ] Sen 40
+  [ ] Sen 41
+  [ ] Sab 39 (+2 Str)
+  [ ] Sab 40
+  [ ] Sab 41 (+2 Str)
+  [ ] Sab 42
+  [ ] Sen 42
+  [ ] Sen 43
+  [ ] Sen 44
+  [ ] Sen 45
+  [ ] Sen 46
+  [ ] Sab 43 (+2 Str)
+  [ ] Sab 44
+  [ ] Sen 47
+  [ ] Sab 45 (+2 Str)
+  [ ] Sab 46
+  [ ] Sen 48
+  [ ] Sen 49
+  [ ] Sab 47 (+2 Str)
+  [ ] Sab 48
+  [ ] Med 71
+  [ ] Sab 49 (+2 Str)
+  [ ] Sab 50
+  [ ] Med 72
+  [ ] Sab 51 (+2 Str)
+  [ ] Sab 52
+  [ ] Med 73
+  [ ] Sab 53 (+2 Str)
+
+Expansion bonus: Learn: SAB Bonus Boost II
+
+Final levels:
+  Com 95
+  Rav 99
+  Sen 50
+  Sab 54
+  Syn 83
+  Med 74
+
+Stage bonuses:
+  +18 Str
+
+Total bonuses:
+  +6 HP
+  +240 Str
+  +82 Mag
+
+Base stats:
+  HP: 5797
+  Str: 603
+  Mag: 369
+
+
+== Stage 19 = [Stg19] ==
+
+Stage CP: 36100
+
+==== Serah == [Ser19] ==
+
+  [ ] Rav 97 (+2 Mag)
+  [ ] Syn 35
+  [ ] Sen 63
+  [ ] Sen 64
+  [ ] Syn 36 (+2 Mag)
+  [ ] Syn 37
+  [ ] Sen 65
+  [ ] Sen 66
+  [ ] Syn 38 (+2 Mag)
+  [ ] Syn 39
+  [ ] Sen 67
+  [ ] Sen 68
+  [ ] Syn 40 (+2 Mag)
+  [ ] Syn 41
+  [ ] Sen 69
+  [ ] Sen 70
+  [ ] Syn 42 (+2 Mag)
+  [ ] Syn 43
+  [ ] Sen 71
+  [ ] Sen 72
+  [ ] Syn 44 (+2 Mag)
+  [ ] Syn 45
+  [ ] Sen 73
+  [ ] Sen 74
+  [ ] Syn 46 (+2 Mag)
+  [ ] Syn 47
+  [ ] Syn 48 (+2 Mag)
+  [ ] Syn 49
+  [ ] Sen 75
+  [ ] Syn 50 (+2 Mag)
+
+Expansion bonus: Learn: SEN Bonus Boost II
+
+Final levels:
+  Com 77
+  Rav 98
+  Sen 76
+  Sab 99
+  Syn 51
+  Med 84
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +340 Mag
+
+Base stats:
+  HP: 4879
+  Str: 295
+  Mag: 718
+
+==== Noel === [Nol19] ==
+
+  [ ] Com 95 (+2 Str)
+  [ ] Sab 54
+  [ ] Sen 50
+  [ ] Sen 51
+  [ ] Sab 55 (+2 Str)
+  [ ] Sab 56
+  [ ] Sab 57 (+2 Str)
+  [ ] Sab 58
+  [ ] Sen 52
+  [ ] Sen 53
+  [ ] Sen 54
+  [ ] Sen 55
+  [ ] Sen 56
+  [ ] Sab 59 (+2 Str)
+  [ ] Sab 60
+  [ ] Sen 57
+  [ ] Sab 61 (+2 Str)
+  [ ] Sab 62
+  [ ] Sen 58
+  [ ] Sen 59
+  [ ] Sab 63 (+2 Str)
+  [ ] Sab 64
+  [ ] Sen 60
+  [ ] Sab 65 (+2 Str)
+  [ ] Sab 66
+  [ ] Sen 61
+  [ ] Sab 67 (+2 Str)
+  [ ] Sab 68
+  [ ] Sen 62
+  [ ] Sab 69 (+2 Str)
+
+Expansion bonus: Learn: SEN Bonus Boost
+
+Final levels:
+  Com 96
+  Rav 99
+  Sen 63
+  Sab 70
+  Syn 83
+  Med 74
+
+Stage bonuses:
+  +18 Str
+
+Total bonuses:
+  +6 HP
+  +258 Str
+  +82 Mag
+
+Base stats:
+  HP: 6415
+  Str: 674
+  Mag: 400
+
+
+== Stage 20 = [Stg20] ==
+
+Stage CP: 52600
+
+==== Serah == [Ser20] ==
+
+  [ ] Rav 98 (+2 Mag)
+  [ ] Syn 51
+  [ ] Med 84
+  [ ] Med 85
+  [ ] Syn 52 (+2 Mag)
+  [ ] Syn 53
+  [ ] Med 86
+  [ ] Med 87
+  [ ] Syn 54 (+2 Mag)
+  [ ] Syn 55
+  [ ] Med 88
+  [ ] Med 89
+  [ ] Syn 56 (+2 Mag)
+  [ ] Syn 57
+  [ ] Med 90
+  [ ] Med 91
+  [ ] Syn 58 (+2 Mag)
+  [ ] Syn 59
+  [ ] Med 92
+  [ ] Med 93
+  [ ] Syn 60 (+2 Mag)
+  [ ] Syn 61
+  [ ] Med 94
+  [ ] Med 95
+  [ ] Syn 62 (+2 Mag)
+  [ ] Syn 63
+  [ ] Syn 64 (+2 Mag)
+  [ ] Syn 65
+  [ ] Med 96
+  [ ] Syn 66 (+2 Mag)
+
+Expansion bonus: Learn: SYN Bonus Boost
+
+Final levels:
+  Com 77
+  Rav 99
+  Sen 76
+  Sab 99
+  Syn 67
+  Med 97
+
+Stage bonuses:
+  +18 Mag
+
+Total bonuses:
+  +2 Str
+  +358 Mag
+
+Base stats:
+  HP: 5248
+  Str: 319
+  Mag: 754
+
+==== Noel === [Nol20] ==
+
+  [ ] Com 96 (+2 Str)
+  [ ] Syn 83
+  [ ] Sen 63
+  [ ] Sen 64
+  [ ] Syn 84 (+2 Mag)
+  [ ] Syn 85
+  [ ] Syn 86 (+2 Mag)
+  [ ] Syn 87
+  [ ] Sen 65
+  [ ] Sen 66
+  [ ] Sen 67
+  [ ] Sen 68
+  [ ] Sen 69
+  [ ] Syn 88 (+2 Mag)
+  [ ] Syn 89
+  [ ] Sen 70
+  [ ] Syn 90 (+2 Mag)
+  [ ] Syn 91
+  [ ] Sen 71
+  [ ] Sen 72
+  [ ] Syn 92 (+2 Mag)
+  [ ] Syn 93
+  [ ] Sen 73
+  [ ] Syn 94 (+2 Mag)
+  [ ] Syn 95
+  [ ] Sen 74
+  [ ] Syn 96 (+2 Mag)
+  [ ] Syn 97
+  [ ] Sen 75
+  [ ] Syn 98 (+2 Mag)
+
+Expansion bonus: Learn: SYN Bonus Boost II
+
+Final levels:
+  Com 97
+  Rav 99
+  Sen 76
+  Sab 70
+  Syn 99
+  Med 74
+
+Stage bonuses:
+  +2 Str
+  +16 Mag
+
+Total bonuses:
+  +6 HP
+  +260 Str
+  +98 Mag
+
+Base stats:
+  HP: 7054
+  Str: 744
+  Mag: 444
+
+
+== Stage 21 = [Stg21] ==
+
+Stage CP: 94600
+
+==== Serah == [Ser21] ==
+
+  [ ] Med 97 (+6 HP)
+  [ ] Syn 67
+  [ ] Sen 76
+  [ ] Sen 77
+  [ ] Sen 78
+  [ ] Sen 79
+  [ ] Syn 68 (+2 Mag)
+  [ ] Syn 69
+  [ ] Sen 80
+  [ ] Sen 81
+  [ ] Sen 82
+  [ ] Syn 70 (+2 Mag)
+  [ ] Syn 71
+  [ ] Sen 83
+  [ ] Sen 84
+  [ ] Sen 85
+  [ ] Syn 72 (+2 Mag)
+  [ ] Syn 73
+  [ ] Sen 86
+  [ ] Sen 87
+  [ ] Sen 88
+  [ ] Syn 74 (+2 Mag)
+  [ ] Syn 75
+  [ ] Sen 89
+  [ ] Sen 90
+  [ ] Sen 91
+  [ ] Syn 76 (+2 Mag)
+  [ ] Syn 77
+  [ ] Sen 92
+  [ ] Sen 93
+  [ ] Sen 94
+  [ ] Sen 95
+  [ ] Syn 78 (+2 Mag)
+  [ ] Syn 79
+  [ ] Sen 96
+  [ ] Syn 80 (+2 Mag)
+  [ ] Syn 81
+  [ ] Sen 97
+  [ ] Sen 98
+  [ ] Syn 82 (+2 Mag)
+
+Expansion bonus: Learn: SYN Bonus Boost II
+
+Final levels:
+  Com 77
+  Rav 99
+  Sen 99
+  Sab 99
+  Syn 83
+  Med 98
+
+Stage bonuses:
+  +6 HP
+  +16 Mag
+
+Total bonuses:
+  +6 HP
+  +2 Str
+  +374 Mag
+
+Base stats:
+  HP: 5965
+  Str: 343
+  Mag: 805
+
+==== Noel === [Nol21] ==
+
+  [ ] Com 97 (+2 Str)
+  [ ] Sab 70
+  [ ] Sen 76
+  [ ] Sen 77
+  [ ] Sen 78
+  [ ] Sab 71 (+2 Str)
+  [ ] Sab 72
+  [ ] Sen 79
+  [ ] Sab 73 (+2 Str)
+  [ ] Sab 74
+  [ ] Sen 80
+  [ ] Sen 81
+  [ ] Sen 82
+  [ ] Sen 83
+  [ ] Sen 84
+  [ ] Sen 85
+  [ ] Sen 86
+  [ ] Sab 75 (+2 Str)
+  [ ] Sab 76
+  [ ] Sen 87
+  [ ] Sen 88
+  [ ] Sab 77 (+2 Str)
+  [ ] Sab 78
+  [ ] Sen 89
+  [ ] Sen 90
+  [ ] Sen 91
+  [ ] Sen 92
+  [ ] Sab 79 (+2 Str)
+  [ ] Sab 80
+  [ ] Sen 93
+  [ ] Sen 94
+  [ ] Sab 81 (+2 Str)
+  [ ] Sab 82
+  [ ] Sen 95
+  [ ] Sen 96
+  [ ] Sen 97
+  [ ] Sab 83 (+2 Str)
+  [ ] Sab 84
+  [ ] Sen 98
+  [ ] Sab 85 (+2 Str)
+
+Expansion bonus: Learn: SEN Bonus Boost II
+
+Final levels:
+  Com 98
+  Rav 99
+  Sen 99
+  Sab 86
+  Syn 99
+  Med 74
+
+Stage bonuses:
+  +18 Str
+
+Total bonuses:
+  +6 HP
+  +278 Str
+  +98 Mag
+
+Base stats:
+  HP: 7920
+  Str: 807
+  Mag: 470
+
+
+== Stage 22 = [Stg22] ==
+
+Stage CP: 107600
+
+==== Serah == [Ser22] ==
+
+  [ ] Med 98 (+6 HP)
+  [ ] Syn 83
+  [ ] Com 77
+  [ ] Com 78
+  [ ] Com 79
+  [ ] Com 80
+  [ ] Syn 84 (+2 Mag)
+  [ ] Syn 85
+  [ ] Com 81
+  [ ] Com 82
+  [ ] Com 83
+  [ ] Syn 86 (+2 Mag)
+  [ ] Syn 87
+  [ ] Com 84
+  [ ] Com 85
+  [ ] Com 86
+  [ ] Syn 88 (+2 Mag)
+  [ ] Syn 89
+  [ ] Com 87
+  [ ] Com 88
+  [ ] Com 89
+  [ ] Syn 90 (+2 Mag)
+  [ ] Syn 91
+  [ ] Com 90
+  [ ] Com 91
+  [ ] Com 92
+  [ ] Syn 92 (+2 Mag)
+  [ ] Syn 93
+  [ ] Com 93
+  [ ] Com 94
+  [ ] Com 95
+  [ ] Com 96
+  [ ] Syn 94 (+2 Mag)
+  [ ] Syn 95
+  [ ] Com 97
+  [ ] Syn 96 (+2 Mag)
+  [ ] Syn 97
+  [ ] Com 98
+  [ ] Syn 98 (+2 Mag)
+
+Final levels:
+  Com 99
+  Rav 99
+  Sen 99
+  Sab 99
+  Syn 99
+  Med 99
+
+Stage bonuses:
+  +6 HP
+  +16 Mag
+
+Total bonuses:
+  +12 HP
+  +2 Str
+  +390 Mag
+
+Base stats:
+  HP: 6619
+  Str: 402
+  Mag: 880
+
+==== Noel === [Nol22] ==
+
+  [ ] Com 98 (+2 Str)
+  [ ] Sab 86
+  [ ] Med 74
+  [ ] Med 75
+  [ ] Med 76
+  [ ] Sab 87 (+2 Str)
+  [ ] Sab 88
+  [ ] Med 77
+  [ ] Sab 89 (+2 Str)
+  [ ] Sab 90
+  [ ] Med 78
+  [ ] Med 79
+  [ ] Med 80
+  [ ] Med 81
+  [ ] Med 82
+  [ ] Med 83
+  [ ] Med 84
+  [ ] Sab 91 (+2 Str)
+  [ ] Sab 92
+  [ ] Med 85
+  [ ] Sab 93 (+2 Str)
+  [ ] Sab 94
+  [ ] Med 86
+  [ ] Med 87
+  [ ] Med 88
+  [ ] Med 89
+  [ ] Sab 95 (+2 Str)
+  [ ] Med 90
+  [ ] Med 91
+  [ ] Med 92
+  [ ] Sab 96 (+2 Mag)
+  [ ] Med 93
+  [ ] Med 94
+  [ ] Med 95
+  [ ] Med 96
+  [ ] Sab 97 (+2 Str)
+  [ ] Med 97
+  [ ] Med 98
+  [ ] Sab 98 (+2 Mag)
+
+Final levels:
+  Com 99
+  Rav 99
+  Sen 99
+  Sab 99
+  Syn 99
+  Med 99
+
+Stage bonuses:
+  +14 Str
+  +4 Mag
+
+Total bonuses:
+  +6 HP
+  +292 Str
+  +102 Mag
+
+Base stats:
+  HP: 8550
+  Str: 851
+  Mag: 509
+
+
+== Serah Alternative = [Alt] ==
+
+Due to my own personal quirks, the +12 HP the Piggyback guide recommends for
+Serah bothers me, so I would rather purchase +4 Strength.  Below are the
+progressions for Serah's stages 21 and 22 that do just that.
+
+
+==== Stage 21 == [Alt21] ==
+
+Stage CP: 94600
+
+  [ ] Com 77 (+2 Str)
+  [ ] Syn 67
+  [ ] Sen 76
+  [ ] Sen 77
+  [ ] Sen 78
+  [ ] Sen 79
+  [ ] Syn 68 (+2 Mag)
+  [ ] Syn 69
+  [ ] Sen 80
+  [ ] Sen 81
+  [ ] Sen 82
+  [ ] Syn 70 (+2 Mag)
+  [ ] Syn 71
+  [ ] Sen 83
+  [ ] Sen 84
+  [ ] Sen 85
+  [ ] Syn 72 (+2 Mag)
+  [ ] Syn 73
+  [ ] Sen 86
+  [ ] Sen 87
+  [ ] Sen 88
+  [ ] Syn 74 (+2 Mag)
+  [ ] Syn 75
+  [ ] Sen 89
+  [ ] Sen 90
+  [ ] Sen 91
+  [ ] Syn 76 (+2 Mag)
+  [ ] Syn 77
+  [ ] Sen 92
+  [ ] Sen 93
+  [ ] Sen 94
+  [ ] Sen 95
+  [ ] Syn 78 (+2 Mag)
+  [ ] Syn 79
+  [ ] Sen 96
+  [ ] Syn 80 (+2 Mag)
+  [ ] Syn 81
+  [ ] Sen 97
+  [ ] Sen 98
+  [ ] Syn 82 (+2 Mag)
+
+Expansion bonus: Learn: SYN Bonus Boost II
+
+Final levels:
+  Com 78
+  Rav 99
+  Sen 99
+  Sab 99
+  Syn 83
+  Med 97
+
+Stage bonuses:
+  +2 Str
+  +16 Mag
+
+Total bonuses:
+  +4 Str
+  +374 Mag
+
+Base stats:
+  HP: 5939
+  Str: 345
+  Mag: 805
+
+==== Stage 22 == [Alt22] ==
+
+Stage CP: 107600
+
+  [ ] Com 78 (+2 Str)
+  [ ] Syn 83
+  [ ] Com 79
+  [ ] Com 80
+  [ ] Com 81
+  [ ] Com 82
+  [ ] Syn 84 (+2 Mag)
+  [ ] Syn 85
+  [ ] Com 83
+  [ ] Com 84
+  [ ] Com 85
+  [ ] Syn 86 (+2 Mag)
+  [ ] Syn 87
+  [ ] Com 86
+  [ ] Com 87
+  [ ] Com 88
+  [ ] Syn 88 (+2 Mag)
+  [ ] Syn 89
+  [ ] Com 89
+  [ ] Com 90
+  [ ] Com 91
+  [ ] Syn 90 (+2 Mag)
+  [ ] Syn 91
+  [ ] Com 92
+  [ ] Com 93
+  [ ] Com 94
+  [ ] Syn 92 (+2 Mag)
+  [ ] Syn 93
+  [ ] Com 95
+  [ ] Com 96
+  [ ] Com 97
+  [ ] Com 98
+  [ ] Syn 94 (+2 Mag)
+  [ ] Syn 95
+  [ ] Med 97
+  [ ] Syn 96 (+2 Mag)
+  [ ] Syn 97
+  [ ] Med 98
+  [ ] Syn 98 (+2 Mag)
+
+Final levels:
+  Com 99
+  Rav 99
+  Sen 99
+  Sab 99
+  Syn 99
+  Med 99
+
+Stage bonuses:
+  +2 Str
+  +16 Mag
+
+Total bonuses:
+  +6 Str
+  +390 Mag
+
+Base stats:
+  HP: 6607
+  Str: 406
+  Mag: 880
+
+GameFaqs.comfacebook.com/GFAQstwitter.com/GameFAQsHelp / Contact UsChange Colors
+
+gamespot.comgiantbomb.commetacritic.comgamerankings.com
+
+© 2015 CBS Interactive Inc. All rights reserved.SitemapAdvertisePrivacy PolicyAd ChoiceTerms of Use
